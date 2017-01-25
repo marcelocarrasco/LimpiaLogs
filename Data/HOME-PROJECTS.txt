@@ -1,0 +1,16 @@
+Value;LOGS-FILE
+/home/oracle/TableroAMXLoadLTE;PentahoLogs
+/home/oracle/Tableros;PentahoLogs
+/home/oracle/AlcatelFemtoCell/;PentahoLogs
+/home/oracle/WapZte;PentahoLogs
+/home/oracle/ReportesEjec;PentahoLogs
+/home/oracle/MobileumASP;PentahoLogs
+/home/oracle/CYR;PentahoLogs
+/home/oracle/RunJobs;PentahoLogs
+/home/oracle/Informes;PentahoLogs
+/home/oracle/TecnotreeCE;PentahoLogs
+/home/oracle/ReporteAMXSemanal;PentahoLogs
+/home/oracle/NokiaAluIPRAN;PentahoLogs
+/home/oracle/Reportes/;PentahoLogs
+/home/oracle/Particiones;PentahoLogs
+/home/oracle/CiscoPrimeV2;PentahoLogs
